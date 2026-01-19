@@ -1,0 +1,9 @@
+[project]
+name = "vllm-learn"
+version = "0.1.0"
+description = "Archieving my learning progress of vllm"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "vllm>=0.13.0",
+]
